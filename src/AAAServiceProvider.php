@@ -23,6 +23,5 @@ class AAAServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        dd("ok");
     }
 }
